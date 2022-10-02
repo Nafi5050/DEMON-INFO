@@ -1,0 +1,36 @@
+.maxresdefault{
+    height: 300px;
+    width: -300px;
+    position: relative;
+    left: 500px;
+}
+.information{
+    position: relative;
+    left: 465px;
+}
+.confirmed{
+    width: 240px;
+    position: relative;
+    height: 130px;
+}
+.youtube-button{
+    position: relative;
+    width: 80px;
+    top: -360px;
+    left: 475px;
+}
+.circle{
+    width: 73px;
+    position: relative;
+    right: 240px;
+    top: -20px;
+}
+.click{
+    position: relative;
+    left: 250px;
+    top: -110px;
+}
+.about{
+    position: relative;
+    left: 600px;
+}
